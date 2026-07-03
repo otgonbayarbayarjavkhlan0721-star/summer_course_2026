@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+  <meta charset="UTF-8">
+  <title>Болд — Профайл</title>
+</head>
+<body>
+
+  <!-- ===== HEADER + NAV ===== -->
+  <header>
+    <h1>Болд</h1>
+    <nav>
+      <a href="#about">Тухай</a> |
+      <a href="#hobbies">Хобби</a> |
+      <a href="#contact">Холбоо</a>
+    </nav>
+  </header>
+
+  <!-- ===== MAIN ===== -->
+  <main>
+    <img src="images/profile.jpg" alt="Болдын зураг">
+
+    <section id="about">
+      <h2>Тухай</h2>
+      <p>Намайг Болд гэдэг. ...</p>
+    </section>
+
+    <section id="hobbies">
+      <h2>Хобби</h2>
+      <ul>
+        <li>...</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <p>© 2026 Болд. Бүх эрх хамгаалагдсан.</p>
+    <a href="https://github.com/bold" target="_blank">GitHub</a>
+  </footer>
+
+</body>
+</html>

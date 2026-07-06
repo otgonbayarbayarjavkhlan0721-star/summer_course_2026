@@ -1,0 +1,80 @@
+#external{
+    color: blueviolet;
+}
+
+h1{
+    font-family: NZ;
+    font-size: 20px;
+}
+@font-face {
+    font-family:Yuyu Shorts;
+    src: url(./YuyuShort-Regular.ttf);
+}
+@font-face {
+    font-family: NZ;
+    src: url(./PlaywriteNZ-VariableFont_wght.ttf);
+}
+a{
+    text-decoration: wavy rgb(0, 0, 255) px20 ;
+
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: rgb(252, 239, 0);
+}
+.text_decoration{
+    text-decoration: dashed ;
+    text-decoration-color: rgb(78, 9, 9);
+    text-decoration-line: underline;
+    text-decoration-style: dashed
+    
+    
+}
+body{
+    background-color: bisque;
+}
+
+.first{
+    font-weight: bold;
+}
+.second{
+    font-style: italic;
+}
+.third{
+    text-transform: uppercase;
+
+
+}
+.fourth{
+    text-transform: capitalize;
+}
+.a{
+    
+    text-decoration-line: line-through;
+
+}
+.b{
+    text-decoration-line: underline;
+}
+.text::first-letter{
+    text-transform: uppercase;
+}
+.bold{
+    font-weight: bold;
+}
+.deleted{
+    text-decoration-line: line-through;
+}
+.inserted{
+    text-decoration-line: underline;
+}
+.italic{
+    font-style: italic;
+}
+ .para{
+    font-family: Yuyu Shorts;
+font-size: x-large;
+
+ }

@@ -1,0 +1,227 @@
+.ex1 {
+    width: 150px;
+    height: 100px;
+    background-color: white;
+    margin: 0 auto;
+    border: 3px;
+    border-top: red solid;
+    border-right: olive dashed;
+    border-bottom: blue dotted;
+    border-left: orange solid;
+}
+
+.ex2 {
+    width: 150px;
+    height: 100px;
+    background-color: white;
+    margin: 0 auto;
+    border: 3px solid black;
+    border-radius: 12px;
+}
+
+.ex3-1 {
+    width: 150px;
+    height: 100px;
+    color: black;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.ex3-2 {
+    width: 150px;
+    height: 100px;
+    color: black;
+    background-color: rgb(152, 126, 204);
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.ex4-1 {
+    width: 200px;
+    height: 100px;
+    color: black;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.ex4-2 {
+    width: 200px;
+    height: 100px;
+    color: black;
+    background-color: rgb(152, 126, 204);
+    margin: 10px;
+    padding: 40px;
+}
+
+.ex5-1 {
+    width: 150px;
+    height: 100px;
+    color: black;
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.ex5-2 {
+    width: 150px;
+    height: 100px;
+    color: black;
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.ex6 {
+    display: inline-block;
+
+}
+
+#box1 {
+    width: 200px;
+    height: 100px;
+    color: black;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+#box2 {
+    width: 120px;
+    height: 70px;
+    color: black;
+    background-color: rgb(49, 67, 132);
+    margin: -40px;
+    padding: 10px;
+}
+
+.ex7 {
+    width: 200px;
+
+    color: black;
+    background-color: aquamarine;
+
+    padding: 80px;
+}
+
+.boxes {
+
+    color: black;
+    background-color: rgb(49, 67, 132);
+    margin: 40px;
+    padding: 10px;
+}
+
+.ex9 {
+    width: 650px;
+
+    background-color: blue;
+    padding: 35px;
+    margin: 0 auto;
+    border: 15px dashed black;
+}
+
+.ex9i {
+    width: 250px;
+
+    background-color: red;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    color: white;
+
+}
+
+.ex10 {
+    width: 750px;
+
+    color: black;
+    background-color: rgb(152, 126, 204);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.box1 {
+    width: 560px;
+    height: 80px;
+    color: black;
+    background-color: rgb(152, 126, 204);
+    margin: 20px auto;
+    border: 2px black solid;
+    padding: 20px;
+
+}
+
+.box2 {
+    width: 560px;
+    height: 100px;
+    color: black;
+    background-color: rgb(152, 126, 204);
+    border: 2px black dashed;
+    padding: 25px;
+    margin: 20px auto;
+}
+
+.big-con {
+    width: 550px;
+
+    color: black;
+    background-color: rgb(193, 60, 113);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#b1 {
+    width: 450px;
+    
+    border: 3px black;
+    border-left: solid;
+      margin: 0 auto;
+    border-bottom: solid;
+    padding: 5px;
+}
+#b2 {
+    width: 450px;
+    
+    border: 3px black;
+    border-right: solid;
+      margin: 0 auto;
+    border-bottom: solid;
+    padding: 5px;
+    text-align: right;
+}
+#b3 {
+    width: 450px;
+    
+    border: 3px black;
+    border-left: solid;
+      margin: 0 auto;
+    border-bottom: solid;
+    padding: 5px;
+}
+#b4 {
+    width: 450px;
+    
+    border: 3px black;
+    border-right: solid;
+      margin: 0 auto;
+    border-bottom: solid;
+    padding: 5px;
+    text-align: right;
+}
+#b5 {
+    width: 450px;
+    
+    border: 3px black;
+    border-left: solid;
+      margin: 0 auto;
+    border-bottom: solid;
+    padding: 5px;
+}

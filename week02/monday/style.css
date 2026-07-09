@@ -6,6 +6,11 @@ h1{
     font-family: NZ;
     font-size: 20px;
 }
+.para{
+    font-family: Yuyu Shorts;
+font-size: x-large;
+
+ }
 @font-face {
     font-family:Yuyu Shorts;
     src: url(./YuyuShort-Regular.ttf);
@@ -73,8 +78,4 @@ body{
 .italic{
     font-style: italic;
 }
- .para{
-    font-family: Yuyu Shorts;
-font-size: x-large;
-
- }
+ 

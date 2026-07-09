@@ -1,0 +1,108 @@
+.ex1{
+    color: navy;
+}
+.ex2{
+    color: #fb7d9e;
+}
+.ex3{
+    color: rgb(152, 46, 190);
+}
+body{
+    background-color:#9fc5ee;
+}
+.ex5
+{
+    color: darkblue;
+    background-color: white;
+}
+.boxes {
+    width: 150px;
+    height: 80px;
+    color: black;
+    border: 3px solid black;
+    display: inline-block;
+}
+#box1{
+    background-color: olive;
+
+}
+#box2{
+    background-color: navy;
+    
+}
+#box3{
+    background-color: brown;
+    
+}
+#box4{
+    background-color: rgb(56, 5, 5);
+    
+}
+#box5{
+    background-color: beige;
+    
+}
+/* Хүснэгтийн үндсэн загвар */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid white
+  ;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+
+.sunny {
+  background-color: #e9e655; 
+  color: black
+  ;
+}
+
+.cloudy {
+  background-color: #b7b9bd; 
+  color: black
+  ;
+}
+
+.rainy {
+  background-color: #9fc5ee; 
+  color: black;
+}
+
+.snowy {
+  background-color: white; 
+  color: black;
+}
+.container{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(44, 71, 10);
+    border: 10px solid rgb(44, 71, 10) ;
+    margin: 0 auto;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+border-radius: 50%;
+background-color: beige;
+}
+.square{
+     width: 90px;
+    height: 90px;
+
+background-color: rgb(136, 136, 119);
+}
+ .text{
+    background-color: brown;
+    color: pink;
+ }

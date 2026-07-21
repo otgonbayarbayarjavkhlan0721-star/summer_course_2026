@@ -1,0 +1,22 @@
+.outer-box {
+
+    background-color: #1e293b;
+    border-radius: 6px;
+    padding: 12px 20px;
+}
+
+.outer-box li {
+
+    margin-right: 6px;
+    padding: 8px 14px;
+    border-radius: 6px;
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    display: inline;
+    list-style: none;
+}
+
+.outer-box li:hover {
+    background-color: #334155;
+}

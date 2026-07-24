@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            background-color: #4a90e2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .grid-equal {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 15px;
+            height: 400px;
+        }
+    </style>
+    <link rel="stylesheet" href="./grid.css">
+</head>
+
+<body>
+    <div class="grid-equal">
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
+        <div class="box">4</div>
+        <div class="box">5</div>
+        <div class="box">6</div>
+    </div>
+    <h1>Next Grid</h1>
+    <div class="grid-ratio">
+        <div class="box">Хажуугийн мэдээлэл</div>
+        <div class="box"> Гол контент</div>
+        <div class="box">Суртчилгаа</div>
+    </div>
+    <h1> Next Grid</h1>
+    <div class="grid-mixed"> <header class="header">Толгой хэсэг тогтмол өндөртэй</header>
+    <aside class="sidebar">Sidevbar тогтмол өндөртэй</aside>
+    <main class="content">үндсэн хэсэг үлдсэн бүх зай</main></div>
+   
+</body>
+
+</html>

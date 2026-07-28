@@ -1,0 +1,104 @@
+.title {
+    position: relative;
+}
+
+.button {
+    position: absolute;
+    top: 10px;
+    left: 250px;
+}
+
+.img {
+    position: relative;
+}
+
+.explain {
+    position: absolute;
+    padding: 20px;
+    background-color: yellow;
+    width: 300px;
+    font-size: x-large;
+    left: 30px;
+    top: 260px;
+}
+
+.nav li {
+    float: left;
+    margin-right: 20px;
+    list-style: none;
+    color: blue;
+    text-decoration: underline;
+
+
+}
+
+li:hover {
+    color: black;
+}
+
+.box-container {
+    position: relative;
+}
+
+.box1 {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(42, 163, 232);
+    position: absolute;
+}
+
+.box2 {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(232, 74, 42);
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    z-index: 100;
+}
+
+.block-container {
+    padding: 30px;
+    background-color: rgb(112, 129, 145);
+    position: relative;
+    top: 500px;
+}
+
+.block {
+
+    display: block;
+    padding: 5px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.inline {
+    display: inline;
+    padding: 5px;
+    background-color: aliceblue;
+    margin: 10px;
+
+}
+
+
+.elements div {
+    position: relative;
+    top: 500px;
+    padding: 10px;
+    background-color: aqua;
+    margin: 5px;
+}
+
+.elements span {
+    position: relative;
+   
+    top: 500px;
+    padding: 5px;
+    background-color: rgb(167, 189, 42);
+
+}
+.responsive{
+    @media screen {
+        
+    }
+}

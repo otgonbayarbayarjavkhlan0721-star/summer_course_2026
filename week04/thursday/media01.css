@@ -1,0 +1,31 @@
+#container ul {
+    height: 30px;
+    background-color: olive;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+li {
+
+    list-style: none;
+
+}
+
+@media (max-width:300px) {
+
+
+    #container ul {
+        width: 50px;
+        background-color: olive;
+        display: flex;
+        height: 100%;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+
+    }
+}

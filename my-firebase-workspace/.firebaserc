@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "firebase target:apply hosting project01 my-projecr01-app": "summer-course-2026-javkhlan"
+  },
+  "targets": {
+    "summer-course-2026-javkhlan": {
+      "hosting": {
+        "project01": [
+          "my-projecr01-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
